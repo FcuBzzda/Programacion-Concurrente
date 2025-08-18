@@ -1,2 +1,2 @@
 # Programaci-n-Concurrente
-Repositorio con contenidos acerca de la materia "Programación Concurrente"
+Cosas que anoto para la materia de programacion concurrente, seguro faltan cosas
